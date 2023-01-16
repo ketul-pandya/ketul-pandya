@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+Ketul+Pandya!+I+am+currently+workin+on+Backend DEvelopment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7950A&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+Ketul+Pandya!+I+am+currently+workin+on+Backend+ DEvelopment)](https://git.io/typing-svg)
 ---
 <h1 align="center">Hi 👋, I'm Ketul Pandya</h1>
 <h3 align="center">A passionate about learning new things,interested in web development and a proud INDIAN</h3>
