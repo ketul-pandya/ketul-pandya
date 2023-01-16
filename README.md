@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&lines=Hello+I+am+Ketul+Pandya!+I+am+currently+workin+as+a+backend+Developer)](https://git.io/typing-svg)
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">A passionate about learning new things,interested in web development and a proud INDIAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketul-pandya&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-pandya" /> </p>
