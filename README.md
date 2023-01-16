@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketul Pandya</h1>
-<h3 align="center">A passionate about learning new things,interested in web development and also a proud INDIA</h3>
+<h3 align="center">A passionate about learning new things,interested in web development and a proud INDIAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketul-pandya&label=Profile%20views&color=0e75b6&style=flat" alt="ketul-pandya" /> </p>
 
