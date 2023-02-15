@@ -27,6 +27,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ketul-pandya?cardType=github&theme=dark&Title=DD272700&Background=000000&hide_border=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ketul-pandya&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="right">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ketul-pandya&theme=dark&background=000000)](https://git.io/streak-stats)</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketul-pandya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
