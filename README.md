@@ -31,9 +31,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketul-pandya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/ketul-pandya">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketul-pandya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ketul-pandya&repo=convoychat" />
 </a> -->
